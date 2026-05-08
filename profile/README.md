@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/videntur-labs/.github/main/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/videntur-labs/.github/main/assets/banner-light.png">
-  <img alt="Videntur Labs" src="https://raw.githubusercontent.com/videntur-labs/.github/main/assets/banner-dark.png">
-</picture>
+# Videntur Labs
 
 ## Building intelligent tools for investors.
 
