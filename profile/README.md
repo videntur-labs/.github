@@ -1,6 +1,8 @@
-# Videntur Labs
-
-## Building intelligent tools for investors.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/videntur-labs/.github/main/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/videntur-labs/.github/main/assets/banner-light.png">
+  <img alt="Videntur Labs" src="https://raw.githubusercontent.com/videntur-labs/.github/main/assets/banner-dark.png">
+</picture>
 
 We build software that helps investors make better decisions — powered by AI, data, and real-time market intelligence.
 
